@@ -1,2 +1,2 @@
-# phyton-projects
-all my phyton projects
+# python-projects
+all my python projects
